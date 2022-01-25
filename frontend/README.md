@@ -11,6 +11,13 @@ npm run serve
 ```
 
 ### Compiles and minifies for production
+
+### Startar o backend 
+
+```
+yarn start
+```
+
 ```
 npm run build
 ```

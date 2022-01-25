@@ -50,11 +50,9 @@ export default {
 </script>
 
 <style >
-
-.stats{
+.stats {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
-
 </style>
